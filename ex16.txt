@@ -1,0 +1,3 @@
+This is a new text document 
+created with input and argv
+to a file created passed in.
